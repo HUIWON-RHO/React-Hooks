@@ -7,11 +7,11 @@ Collection of React Hooks ready to install with NPM
 - [x] useBeforeLeave : When detect user leave the page, trigger function
 - [x] useClick : Detect click element
 - [x] useFadeIn : Animation fade into element
-- [] useFullScreen : Any element full screen and back to normal
+- [x] useFullScreen : Any element full screen and back to normal
 - [x] useHover : Detect mouse on something
-- [] useNetwork : Detect online or offline
-- [] useNotification : Send notification to user using notification API
-- [] useScroll : Detect user scrolling
+- [x] useNetwork : Detect online or offline
+- [x] useNotification : Send notification to user using notification API
+- [x] useScroll : Detect user scrolling
 - [x] useTabs : Make easy using tab
 - [x] usePreventLeave : Confirm user wants to leave page without save
 - [x] useConfirm : Confirm user wants to leave page without save + function
@@ -43,3 +43,7 @@ setState can independently update value
 -**beforeunload**
 
 allows execute function before window is closed
+
+-**Axios**
+
+Axios is a library that helps us make HTTP requests to external resources

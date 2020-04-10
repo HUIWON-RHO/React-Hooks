@@ -28,11 +28,13 @@ run function.
 
 [] enable to give empty dependency
 
+
 -**Difference props vs state**
 
 props: from parents, unable to change value in child components
 
 state: enable to set and change value inside components
+
 
 -**setState**
 
@@ -40,9 +42,11 @@ setState can contain independent variable
 
 setState can independently update value
 
+
 -**beforeunload**
 
 allows execute function before window is closed
+
 
 -**Axios**
 
